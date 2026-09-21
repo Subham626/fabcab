@@ -1,0 +1,11 @@
+# Robots.txt for Fab Cab (https://fabcabs.com/)
+User-agent: *
+Allow: /
+Allow: /assets/
+Allow: /uploads/
+Disallow: /admin.html
+Disallow: /*?*admin=*
+Disallow: /*?*preview=*
+
+# Search Engine XML Sitemap
+Sitemap: https://fabcabs.com/sitemap.xml
